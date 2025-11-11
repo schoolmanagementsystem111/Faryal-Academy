@@ -492,7 +492,7 @@ const Auth = () => {
                               <option value="student">Student</option>
                               <option value="teacher">Teacher</option>
                               <option value="parent">Parent</option>
-                              <option value="admin">Admin</option>
+                              // <option value="admin">Admin</option>
                               <option value="transport">Transport</option>
                               <option value="library">Library</option>
                               <option value="accounts">Accounts</option>
